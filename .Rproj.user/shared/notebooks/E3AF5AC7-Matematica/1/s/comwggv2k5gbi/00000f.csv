@@ -1,0 +1,8 @@
+"0","empleo <- empleo %>%"
+"0","  mutate(FUNCION = parse_factor(FUNCION, "
+"0","                                levels= c('Servicios Generales', 'Oficina', 'Gerencia'), ordered = T)) %>%"
+"0","  mutate(ESTRATO = parse_factor(ESTRATO, "
+"0","                                levels= c('Bajo', 'Medio', 'Alto'), ordered = T))"
+"2","Error in empleo %>% mutate(FUNCION = parse_factor(FUNCION, levels = c(""Servicios Generales"",  : 
+  could not find function ""%>%""
+"

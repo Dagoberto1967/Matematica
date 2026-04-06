@@ -1,0 +1,4 @@
+- source: Matematica.qmd
+  quarto-pub:
+    - id: eec76a40-6710-486b-86e9-588e2c606650
+      url: 'https://dsalgadoh.quarto.pub/distribuciones-de-frecuencias'

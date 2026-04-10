@@ -1,6 +1,6 @@
 ---
 title: "DISTRIBUCIONES DE FRECUENCIAS"
-subtitle: "TABLAS Y GRAFICAS"
+subtitle: "TABLAS Y GRAFICAS BONITAS"
 author: 
   - name: Dagoberto Salgado Horta Robledo
     affiliation: "Universidad del Tolima"
@@ -444,7 +444,6 @@ palmerpenguins::penguins %>% drop_na() %>%
   )
 ```
 :::
-
 
 <br>
 
